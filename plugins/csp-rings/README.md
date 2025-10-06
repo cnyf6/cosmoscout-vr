@@ -32,3 +32,5 @@ This plugin can be enabled with the following configuration in your `settings.js
 ```
 
 **More in-depth information and some tutorials will be provided soon.**
+
+<!-- Auto-update: 2025-10-07T05:06:24.219917 -->
